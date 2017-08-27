@@ -31,17 +31,17 @@ All talks presented at PyData Delhi 2017:
 |24|Altair: Declarative Visualizations in Python | Nipun Batra | - | @nipun_batra |_in process_|
 |25|Deep Learning for Semantic Segmentation  | Vyom Sharma | - | - |_in process_|
 |26|Winning Vision through DenseNets | Manan Singh | - | - |_in process_|
-|29|Encoder Decoder Architecture| Navya Agarwal | - | - |_in process_|
-|30|Stephanie \| Virtual assistant at your service | Ujjwal Gupta| - | - |_in process_|
-|31|Understanding Clustering: Supervising the unsupervised| Janu Verma | - | - |_in process_|
-|32|Deep (Neural) Language Models| Kashyap Raval | - | - |_in process_|
-|33|Beyond Clicks: Deep Sequential Models for Task Satisfaction Prediction with Conversational Agents| Rishabh Mehrotra | - | - |_in process_|
-|34|Decoding Neural Image Captioning | Sachin Kumar | - |sachin-kmr|_in process_|
-|35|Real-time log analytics using Probabilistic Data Structures in Redis| Srinivasan Rangarajan | - | - |_in process_|
-|36|Pay Some Attention! | Prakhar Srivastava | - | - |_in process_|
-|37|Machine Learning as a Service | Anand Chitipothu | - | - |_in process_|
-|38|Deep Reinforcement Learning: A hands-on approach | Shubham Dokania | - | @shubhamdokania |_in process_|
-|39|Create a sense2vec model using Gensim and Spacy from scraped news data and integrate it with Flask | Tanu Mittal, Abhishek Kapoor | - | - |_in process_|
-|40|Introduction to Julia Programming | Dr. Sandeep Nagar | - | - |_in process_|
-|41|Visual Storytelling with D3 | Alok K. Shukla | - | - |_in process_|
-|42|Geospatial data science and analysis using ArcGIS API for Python| Rohit Singh | - | - |_in process_|
+|27|Encoder Decoder Architecture| Navya Agarwal | - | - |_in process_|
+|28|Stephanie \| Virtual assistant at your service | Ujjwal Gupta| - | - |_in process_|
+|29|Understanding Clustering: Supervising the unsupervised| Janu Verma | - | - |_in process_|
+|30|Deep (Neural) Language Models| Kashyap Raval | - | - |_in process_|
+|31|Beyond Clicks: Deep Sequential Models for Task Satisfaction Prediction with Conversational Agents| Rishabh Mehrotra | - | - |_in process_|
+|32|Decoding Neural Image Captioning | Sachin Kumar | - |sachin-kmr|_in process_|
+|33|Real-time log analytics using Probabilistic Data Structures in Redis| Srinivasan Rangarajan | - | - |_in process_|
+|34|Pay Some Attention! | Prakhar Srivastava | - | - |_in process_|
+|35|Machine Learning as a Service | Anand Chitipothu | - | - |_in process_|
+|36|Deep Reinforcement Learning: A hands-on approach | Shubham Dokania | - | @shubhamdokania |_in process_|
+|37|Create a sense2vec model using Gensim and Spacy from scraped news data and integrate it with Flask | Tanu Mittal, Abhishek Kapoor | - | - |_in process_|
+|38|Introduction to Julia Programming | Dr. Sandeep Nagar | - | - |_in process_|
+|39|Visual Storytelling with D3 | Alok K. Shukla | - | - |_in process_|
+|40|Geospatial data science and analysis using ArcGIS API for Python| Rohit Singh | - | - |_in process_|
