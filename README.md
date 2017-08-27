@@ -1,5 +1,5 @@
 # delhi2017
-All content related to PyData Delhi 2017 - September 2,3 @ IIIT-Delhi
+All content related to PyData Delhi 2017 - September 2,3 @ IIIT-Delhi.
 
 All talks presented at PyData Delhi 2017:
 
@@ -10,7 +10,7 @@ All talks presented at PyData Delhi 2017:
 |3|Machine Learning in Online Advertising| Farhat Habib | - |@far_hat|_in process_|
 |4|My Experiments with Python| Prabhu Ramachandran | - |@prabhu_r|_in process_|
 |5|Recent Advances in NLP | Anuj Gupta | - |@anujgupta82|_in process_|
-|6|Regression Analysis - The good, the bad and the untold| Jalem Raj Rohit|Dawny33, @data__wizard|_in process_|
+|6|Regression Analysis - The good, the bad and the untold| Jalem Raj Rohit|-|Dawny33, @data__wizard|_in process_|
 |7|Things to know while choosing a Deep Learning library| Saurabh Agarwal| - | - |_in process_|
 |8|Topic Modelling with Gensim| Parul Sethi| - | @parul1sethi |_in process_|
 |9|Proximal Policy Optimization : The new kid in the RL jungle| Shubham Gupta| - | - |_in process_|
